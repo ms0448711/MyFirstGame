@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Player Bullets
+  - Enemies
+  - Enemy Bullets
+  - Breakables
+  - IgnoreBullets
+  - Pickups
+  - Room Layout
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4256171753
+    locked: 0
+  - name: Objects
+    uniqueID: 3602107403
+    locked: 0
+  - name: Pickups
+    uniqueID: 1734676787
+    locked: 0
+  - name: Enemies
+    uniqueID: 1546016571
+    locked: 0
+  - name: Bullets
+    uniqueID: 958148755
+    locked: 0
+  - name: Player
+    uniqueID: 3727478147
+    locked: 0
